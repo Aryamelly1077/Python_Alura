@@ -26,7 +26,7 @@
 ### 📕 Contenido de Desafios
 
 * Desafio 1: Estructuras de Datos.
-* Desafio 2: 
+* Desafio 2: Entrada y Conversion de Datos
 
 ---
 
