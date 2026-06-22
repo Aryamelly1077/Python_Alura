@@ -1,0 +1,19 @@
+## Desafio Estrucuturas de datos
+## Explicacion del desafio:
+## De un listado de promedios queremos sumar un punto a cada promedio. 
+## Si el promedio pasa de 10 entonces dejar en 10.
+
+## Inicia Codigo 
+
+n=0
+promedios = [8.5, 6.5, 7.3, 9.5]
+tamano = len(promedios)
+while n < tamano:
+  print(f"promedio {n+1} antes: {promedios[n]}")
+  if promedios[n] + 1.0 > 10:
+    promedios[n] = 10
+  else:
+    promedios[n] = promedios[n]+1.0
+  print(f"promedio {n+1} despues: {promedios[n]}")
+  n = n + 1
+print('Ya salimos del while')
