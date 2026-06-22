@@ -27,6 +27,7 @@
 
 * Desafio 1: Estructuras de Datos.
 * Desafio 2: Entrada y Conversion de Datos
+* Desafio 3: Lectura y Escritura de Archivos
 
 ---
 
