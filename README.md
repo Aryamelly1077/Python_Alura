@@ -19,7 +19,7 @@
 ### 🏃 ¿Cómo Verlos?
 
 1.  Puedes copiar el codigo o descargar el repositorio en tu maquina.
-2.  Abrirlo con VSCode o si puedes copiar el codigo en Google Colab
+2.  Abrirlo con Google Colab o si puedes copiar el codigo en VSCode
 
 ---
 
